@@ -1,0 +1,98 @@
+[
+  {
+    "codigo": "USR00011",
+    "evento": "entrada",
+    "usuario": "Luis",
+    "fecha": "3/5/2026, 4:58:38 p. m."
+  },
+  {
+    "codigo": "USR00011",
+    "evento": "salida",
+    "tipo": "usuario",
+    "fecha": "3/5/2026, 5:02:00 p. m."
+  },
+  {
+    "codigo": "USR00007",
+    "evento": "salida",
+    "tipo": "usuario",
+    "fecha": "3/5/2026, 5:04:44 p. m."
+  },
+  {
+    "codigo": "USR00011",
+    "evento": "entrada",
+    "usuario": "Luis",
+    "fecha": "3/5/2026, 5:05:19 p. m."
+  },
+  {
+    "codigo": "VIS66387846",
+    "evento": "salida",
+    "tipo": "visitante",
+    "fecha": "3/5/2026, 5:08:42 p. m."
+  },
+  {
+    "codigo": "USR00011",
+    "evento": "entrada",
+    "usuario": "Luis",
+    "fecha": "3/5/2026, 5:09:51 p. m."
+  },
+  {
+    "codigo": "USR00011",
+    "evento": "salida",
+    "tipo": "usuario",
+    "fecha": "3/5/2026, 5:10:15 p. m."
+  },
+  {
+    "codigo": "VIS97868594",
+    "evento": "salida",
+    "tipo": "visitante",
+    "fecha": "3/5/2026, 5:12:56 p. m."
+  },
+  {
+    "codigo": "VIS66387846",
+    "evento": "entrada",
+    "tipo": "visitante",
+    "fecha": "3/5/2026, 5:15:24 p. m."
+  },
+  {
+    "codigo": "VIS59353468",
+    "evento": "entrada",
+    "tipo": "visitante",
+    "fecha": "3/5/2026, 5:16:23 p. m."
+  },
+  {
+    "codigo": "VIS00001",
+    "evento": "entrada",
+    "tipo": "visitante",
+    "fecha": "3/5/2026, 5:18:08 p. m."
+  },
+  {
+    "codigo": "VIS91969408",
+    "evento": "salida",
+    "tipo": "visitante",
+    "fecha": "3/5/2026, 5:19:13 p. m."
+  },
+  {
+    "codigo": "VIS51728548",
+    "evento": "entrada",
+    "tipo": "visitante",
+    "fecha": "3/5/2026, 5:19:51 p. m."
+  },
+  {
+    "codigo": "VIS31060684",
+    "evento": "entrada",
+    "tipo": "visitante",
+    "fecha": "3/5/2026, 5:21:32 p. m."
+  },
+  {
+    "codigo": "VIS31060684",
+    "evento": "salida",
+    "tipo": "visitante",
+    "fecha": "3/5/2026, 5:21:43 p. m."
+  },
+  {
+    "codigo": "VIS79178831",
+    "evento": "entrada",
+    "tipo": "visitante",
+    "fecha": "4/5/2026, 8:15:04 a. m."
+  }
+]
