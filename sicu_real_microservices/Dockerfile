@@ -7,3 +7,5 @@ COPY . /var/www/html/
 EXPOSE 80
 
 RUN echo "DirectoryIndex principal.php" >> /etc/apache2/apache2.conf
+
+EXPOSE 10000
